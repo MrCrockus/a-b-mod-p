@@ -1,0 +1,1 @@
+This program calculates a^b mod p  (where p - prime number)
